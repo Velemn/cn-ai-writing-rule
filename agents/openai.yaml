@@ -1,0 +1,6 @@
+interface:
+  display_name: "CN AI Writing Rule"
+  short_description: "Evidence-led Chinese writing without formulaic AI language"
+  default_prompt: "Use $cn-ai-writing-rule to revise this Chinese draft while preserving its framework, evidence boundaries, and natural professional tone."
+policy:
+  allow_implicit_invocation: true
